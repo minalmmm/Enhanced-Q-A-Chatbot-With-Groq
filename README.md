@@ -80,9 +80,9 @@
 
 ## 8. Sample Interaction
 
-   ![Output]((https://github.com/minalmmm/Enhanced-Q-A-Chatbot-With-Groq/blob/main/img1.png))
-   ![Output]((https://github.com/minalmmm/Enhanced-Q-A-Chatbot-With-Groq/blob/main/img2.png))
-   ![Output]((https://github.com/minalmmm/Enhanced-Q-A-Chatbot-With-Groq/blob/main/img3.png))
-   ![Output]((https://github.com/minalmmm/Enhanced-Q-A-Chatbot-With-Groq/blob/main/img4.png))
-   ![Output]((https://github.com/minalmmm/Enhanced-Q-A-Chatbot-With-Groq/blob/main/img5.png))
+   ![Output](https://github.com/minalmmm/Enhanced-Q-A-Chatbot-With-Groq/blob/main/img1.png)
+   ![Output](https://github.com/minalmmm/Enhanced-Q-A-Chatbot-With-Groq/blob/main/img2.png)
+   ![Output](https://github.com/minalmmm/Enhanced-Q-A-Chatbot-With-Groq/blob/main/img3.png)
+   ![Output](https://github.com/minalmmm/Enhanced-Q-A-Chatbot-With-Groq/blob/main/img4.png)
+   ![Output](https://github.com/minalmmm/Enhanced-Q-A-Chatbot-With-Groq/blob/main/img5.png)
    
